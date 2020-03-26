@@ -9,3 +9,5 @@ class Animal{
 }
 
 var cat = new Animal('ming')
+
+console.log(11111)

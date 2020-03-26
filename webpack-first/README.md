@@ -17,6 +17,9 @@ loader: 模块转换器，用于把模块原内容按照需求转换成新内容
 使用 npm init -y 进行初始化(也可以使用 yarn)。  
 
 要使用 webpack，那么必然需要安装 webpack、webpack-cli:
-```javascript
+```shell
 npm install webpack webpack-cli -D
 ```
+鉴于前端技术变更迅速，祭出本篇文章基于 webpack 的版本号:  
+> "webpack": "^4.42.1"
+> "webpack-cli": "^3.3.11"
