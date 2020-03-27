@@ -1,3 +1,4 @@
+import './index.scss'
 class Animal{
   constructor(name){
     this.name = name

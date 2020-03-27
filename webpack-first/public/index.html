@@ -6,6 +6,7 @@
   <title>webpack first in <%= (htmlWebpackPlugin.options.config.title)  %></title>
 </head>
 <body>
-  
+  <!-- html直接引用本地文件会报错，安装 html-withimg-loader 来解决咯 -->
+  <img src="<%= require('./mv.jpg') %>" alt="美女">
 </body>
 </html>

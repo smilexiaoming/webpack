@@ -12,7 +12,7 @@ loader: 模块转换器，用于把模块原内容按照需求转换成新内容
 # 3.初始化项目
 新建一个文件夹，如: webpack-first (当然，你可以使用任意一个你喜欢的项目名)。推荐大家参考本文一步一步进行配置，不要总是在网上找什么最佳配置，你掌握了webpack之后，根据自己的需求配置出来的，就是最佳配置。  
 
-本篇文章对应的项目地址(编写本文时使用):[webpack](https://github.com/smilexiaoming/webpack.git)  
+本篇文章对应的项目地址(编写本文时使用):<https://github.com/smilexiaoming/webpack.git>  
 
 使用 npm init -y 进行初始化(也可以使用 yarn)。  
 
@@ -23,3 +23,5 @@ npm install webpack webpack-cli -D
 鉴于前端技术变更迅速，祭出本篇文章基于 webpack 的版本号:  
 > "webpack": "^4.42.1"
 > "webpack-cli": "^3.3.11"
+
+# 基础篇完成 代码注释
