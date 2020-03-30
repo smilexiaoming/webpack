@@ -37,3 +37,6 @@ document.body.appendChild(btnEle)
 if(module && module.hot) {
   module.hot.accept()
 }
+
+//环境变量
+console.log({DEV,MY,FLAG});
